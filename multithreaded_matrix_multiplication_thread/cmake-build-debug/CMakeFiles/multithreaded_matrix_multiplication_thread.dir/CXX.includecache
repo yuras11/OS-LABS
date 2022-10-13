@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Yuriy Kozlov/CLionProjects/multithreaded_matrix_multiplication_thread/main.cpp
+matrix.h
+C:/Users/Yuriy Kozlov/CLionProjects/multithreaded_matrix_multiplication_thread/matrix.h
+
+C:/Users/Yuriy Kozlov/CLionProjects/multithreaded_matrix_multiplication_thread/matrix.cpp
+matrix.h
+C:/Users/Yuriy Kozlov/CLionProjects/multithreaded_matrix_multiplication_thread/matrix.h
+
+C:/Users/Yuriy Kozlov/CLionProjects/multithreaded_matrix_multiplication_thread/matrix.h
+iostream
+-
+thread
+-
+vector
+-
+mutex
+-
+
