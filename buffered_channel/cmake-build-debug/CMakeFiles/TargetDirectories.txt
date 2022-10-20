@@ -1,0 +1,3 @@
+C:/Users/Yuriy Kozlov/CLionProjects/buffered_channel/cmake-build-debug/CMakeFiles/buffered_channel.dir
+C:/Users/Yuriy Kozlov/CLionProjects/buffered_channel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yuriy Kozlov/CLionProjects/buffered_channel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
