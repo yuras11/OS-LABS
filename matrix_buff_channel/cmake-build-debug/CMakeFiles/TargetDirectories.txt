@@ -1,3 +1,0 @@
-C:/Users/Yuriy Kozlov/CLionProjects/matrix_buff_channel/cmake-build-debug/CMakeFiles/matrix_buff_channel.dir
-C:/Users/Yuriy Kozlov/CLionProjects/matrix_buff_channel/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Yuriy Kozlov/CLionProjects/matrix_buff_channel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
